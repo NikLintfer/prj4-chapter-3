@@ -13,9 +13,12 @@
 .my-middle {
 	margin-left: 30px; margin-right: 30px;text-align: center
 }
-.my-id {color: red;
+#my-id {color: red;
 }
 
 .body {font-family: 'Architects Daughter', cursive;
 }
 
+.my-image {
+    width: 550px;
+}
